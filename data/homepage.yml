@@ -1,0 +1,118 @@
+############################ banner ##########################
+banner:
+  enable : true
+  title : "Dừa - Nguyên liệu thiên nhiên, sản phẩm đẳng cấp."
+  content : "Với sự đam mê và tâm huyết trong công việc, chúng tôi mong muốn được đồng hành cùng khách hàng trong hành trình khám phá thế giới sản phẩm dừa tuyệt vời."
+  image : "images/banner.png"
+  # button
+  button:
+    enable : true
+    # label : "All Products"
+    label : "Tất cả sản phẩm"
+    link : "products/"
+  # demo video
+  video:
+    enable : true
+    # videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
+    videoURL : "https://www.youtube.com/embed/Ajq37QqHp5Q"
+
+########################## About ##############################
+about:
+  enable : true
+  title : "Về sản phẩm của chúng tôi"
+  content : "Công ty của chúng tôi tự hào là đơn vị cung cấp sản phẩm dừa đẳng cấp nhất, được sản xuất từ nguyên liệu dừa tươi và chất lượng đến từ tỉnh Bến Tre. Chúng tôi cam kết mang đến cho khách hàng những sản phẩm an toàn, đảm bảo chất lượng và đầy đủ dinh dưỡng. Với mỗi sản phẩm, bạn sẽ tận hưởng được hương vị dừa tươi mát, cùng với sự tinh tế và đẳng cấp của sản phẩm được chế biến bởi đội ngũ chuyên gia giàu kinh nghiệm của chúng tôi. Hãy trải nghiệm cảm giác mới lạ và đẳng cấp với những sản phẩm dừa độc đáo của chúng tôi!"
+  image : "images/about.png"
+
+
+###################### Call to action ########################
+cta:
+  enable : true
+  title : "Mua một - Tặng một, đa dạng hơn, tiết kiệm hơn!"
+  content : "Thời gian khuyến mãi có hạn, hãy nhanh tay lên nào!"
+  image : "images/cta.png"
+  overlayImage : "images/cta-overlay.png"
+  button:
+    label : "Xem tất cả sản phẩm"
+    link : "products/"
+
+######################## raw material #######################
+material:
+  enable : true
+  title : "Các thành phần thông dụng"
+  subtitle : "Với cam kết khai thác toàn bộ cây dừa và sử dụng các thành phần tự nhiên chất lượng nhất, chúng tôi tự tin rằng các sản phẩm của chúng tôi không chỉ mang lại lợi ích cho sức khỏe mà còn đảm bảo tính bền vững của nguồn tài nguyên thiên nhiên."
+  materialItem:
+    # material item loop
+    - title : "Matcha Seeds"
+      image : "images/material/material-1.png"
+      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      
+    # material item loop
+    - title : "Aloe Vera"
+      image : "images/material/material-2.png"
+      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      
+    # material item loop
+    - title : "Turmeric"
+      image : "images/material/material-3.png"
+      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      
+    # material item loop
+    - title : "Tulshi leaf"
+      image : "images/material/material-4.png"
+      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+
+########################### Advantage #########################
+advantage:
+  enable : true
+  title : "Lợi ích khi sử dụng sản phẩm thực phẩm"
+  subtitle : "Lorem ipsum dolor sit amet, da decal consetetur<br> sadipscing elitr, sed diam nonumya eirmod"
+  image : "images/advantage.png"
+  advantageList:
+    # advantage list loop
+    - listItem : "Cải thiện sức khỏe cho da và tóc"
+    - listItem : "Tăng cường miễn dịch cho cơ thể"
+    - listItem : "Giảm nguy cơ bệnh tim và đột quỵ"
+    - listItem : "Không chứa các chất phụ gia độc hại"
+    - listItem : "Giàu dinh dưỡng và các chất chống oxy hóa tự nhiên"
+
+
+######################## Promo Video ##########################
+video:
+  enable : true
+  title : "Cách sử dụng sản phẩm?"
+  content : "Các sản phẩm của công có thể được sử dụng theo nhiều cách khác nhau tùy thuộc vào từng sản phẩm."
+  videoThumb : "images/video-thumb.jpg"
+  videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
+
+
+######################## Products #############################
+products:
+  enable : true
+  title : "Danh mục sản phẩm"
+  # product item comes from "content/products"
+
+
+########################## Testimonial ########################
+testimonial:
+  enable : true
+  title : "Khách hàng nói gì về sản phẩm của BECOCO?"
+  testimonialItem:
+    # testimonial item loop
+      - name: "Phan Thị Ánh Tuyết"
+        image: "images/clients/client-1.jpg"
+        designation: "Giám đốc marketing, Công ty TNHH Tuyết Mai"
+        content: "Sản phẩm của công ty rất tuyệt vời, đặc biệt là dầu dừa và nước cốt dừa. Tôi sẽ tiếp tục ủng hộ công ty trong tương lai."
+        rating: "four"
+        
+      - name: "Nguyễn Văn Hiển"
+        image: "images/clients/client-2.jpg"
+        designation: "Chuyên viên kinh doanh, Công ty TNHH Hiển Long"
+        content: "Sản phẩm thạch dừa của công ty rất ngon, tôi đã mua và thử nhiều lần và luôn hài lòng về chất lượng sản phẩm."
+        rating: "five"
+        
+      - name: "Trần Thị Hồng Vân"
+        image: "images/clients/client-3.jpg"
+        designation: "Chủ cửa hàng thực phẩm tổng hợp, Hồng Vân Mart"
+        content: "Khách hàng của tôi rất thích sản phẩm kẹo dừa của công ty, tôi thậm chí còn không đủ hàng để đáp ứng. Rất mong Becoco nhanh chóng gia tăng khả năng cung ứng sản phẩm."
+        rating: "four"
+    
