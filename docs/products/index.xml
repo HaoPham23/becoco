@@ -8,6 +8,24 @@
     <language>vi</language>
     <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate><atom:link href="https://haopham23.github.io/becoco/products/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Cacao sữa dừa</title>
+      <link>https://haopham23.github.io/becoco/products/cacao-sua-dua/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://haopham23.github.io/becoco/products/cacao-sua-dua/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>Dầu dừa</title>
+      <link>https://haopham23.github.io/becoco/products/dau-dua/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://haopham23.github.io/becoco/products/dau-dua/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
       <title>Kẹo dừa</title>
       <link>https://haopham23.github.io/becoco/products/keo-dua/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
@@ -17,74 +35,47 @@
     </item>
     
     <item>
-      <title>Taba Cream</title>
-      <link>https://haopham23.github.io/becoco/products/taba-cream.2/</link>
+      <title>Mức dừa</title>
+      <link>https://haopham23.github.io/becoco/products/muc-dua/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>https://haopham23.github.io/becoco/products/taba-cream.2/</guid>
+      <guid>https://haopham23.github.io/becoco/products/muc-dua/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
-      <title>Taba Cream</title>
-      <link>https://haopham23.github.io/becoco/products/taba-cream/</link>
+      <title>Nước cốt dừa</title>
+      <link>https://haopham23.github.io/becoco/products/nuoc-cot-dua/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>https://haopham23.github.io/becoco/products/taba-cream/</guid>
+      <guid>https://haopham23.github.io/becoco/products/nuoc-cot-dua/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
-      <title>Taba Facewash</title>
-      <link>https://haopham23.github.io/becoco/products/taba-facewash.1/</link>
+      <title>Nước dừa đóng lon</title>
+      <link>https://haopham23.github.io/becoco/products/nuoc-dua-dong-lon/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>https://haopham23.github.io/becoco/products/taba-facewash.1/</guid>
+      <guid>https://haopham23.github.io/becoco/products/nuoc-dua-dong-lon/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
-      <title>Taba Facewash</title>
-      <link>https://haopham23.github.io/becoco/products/taba-facewash.2/</link>
+      <title>Nước màu dừa</title>
+      <link>https://haopham23.github.io/becoco/products/nuoc-mau-dua/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>https://haopham23.github.io/becoco/products/taba-facewash.2/</guid>
+      <guid>https://haopham23.github.io/becoco/products/nuoc-mau-dua/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
-      <title>Taba Facewash</title>
-      <link>https://haopham23.github.io/becoco/products/taba-facewash/</link>
+      <title>Rượu dừa</title>
+      <link>https://haopham23.github.io/becoco/products/ruou-dua/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>https://haopham23.github.io/becoco/products/taba-facewash/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
-    </item>
-    
-    <item>
-      <title>Taba Shampoo</title>
-      <link>https://haopham23.github.io/becoco/products/taba-shampoo.1/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      
-      <guid>https://haopham23.github.io/becoco/products/taba-shampoo.1/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
-    </item>
-    
-    <item>
-      <title>Taba Shampoo</title>
-      <link>https://haopham23.github.io/becoco/products/taba-shampoo.2/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      
-      <guid>https://haopham23.github.io/becoco/products/taba-shampoo.2/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
-    </item>
-    
-    <item>
-      <title>Taba Shampoo</title>
-      <link>https://haopham23.github.io/becoco/products/taba-shampoo/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      
-      <guid>https://haopham23.github.io/becoco/products/taba-shampoo/</guid>
+      <guid>https://haopham23.github.io/becoco/products/ruou-dua/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     

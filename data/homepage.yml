@@ -3,7 +3,7 @@ banner:
   enable : true
   title : "Dừa - Nguyên liệu thiên nhiên, sản phẩm đẳng cấp."
   content : "Với sự đam mê và tâm huyết trong công việc, chúng tôi mong muốn được đồng hành cùng khách hàng trong hành trình khám phá thế giới sản phẩm dừa tuyệt vời."
-  image : "images/banner.png"
+  image : "images/banner-coconut.png"
   # button
   button:
     enable : true

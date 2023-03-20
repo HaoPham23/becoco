@@ -1,36 +1,39 @@
 ---
-title: "Terms & Conditions"
+title: "Quy định & Điều khoản"
 date: 2019-10-17T11:22:16+06:00
 draft: false
 description : "this is a meta description"
 ---
 
-### Terms and Condition
+## Các quy định và điều khoản
 
-Please read this terms and conditions stated below, which outline a lot of legal goodies, but the bottom line is it’s our aim to always take care of both of us, as a customer, or as a seller. We’ve included many of these terms to legally protect ourselves, but if you have an issue, always feel free to email us at contact@themefisher.com and we’ll do our best to resolve it in a fair and timely way .
+Điều khoản và Quy định của công ty được xây dựng nhằm đảm bảo hoạt động của công ty diễn ra thuận lợi và đáp ứng nhu cầu của khách hàng một cách hợp pháp và minh bạch.
 
-### Product Buy & delivery policy
+Các Điều khoản và Quy định của công ty được đặt ra nhằm bảo vệ quyền lợi của khách hàng và công ty. Quy định này bao gồm nhiều mục như chính sách bảo mật thông tin, quy trình đặt hàng và thanh toán, quy định về việc đổi trả sản phẩm, cách thức giải quyết khiếu nại, và nhiều hơn nữa.
 
-1)All payments are processed securely through PayPal or Stripe. Themefisher does not directly process payments through the website. So any kind of Problem if you face Themefisher will Not Take any responsibility.
+Chúng tôi cam kết thực hiện đầy đủ các điều khoản và quy định đã được đề ra, giúp khách hàng có được trải nghiệm mua sắm tốt nhất và công ty có thể đạt được mục tiêu kinh doanh của mình một cách bền vững.
 
-### Product Buy & delivery policy
+## Chính sách Mua và Giao nhận sản phẩm
 
-Please read this terms and conditions stated below, which outline a lot of legal goodies, but the bottom line is it’s our aim to always take care of both of us, as a customer, or as a seller. We’ve included many of these terms to legally protect ourselves, but if you have an issue, always feel free to email us at contact@themefisher.com and we’ll do our best to resolve it in a fair and timely way .
+### Quy trình mua hàng
+Khách hàng đặt hàng trực tuyến qua website hoặc liên hệ trực tiếp với chúng tôi qua số điện thoại cung cấp trên website.
+Sau khi nhận được đơn đặt hàng, chúng tôi sẽ liên hệ với khách hàng để xác nhận thông tin và tiến hành giao hàng.
 
-### Refund Policy
+### Phí vận chuyển
+Chúng tôi có các phương thức vận chuyển khác nhau để khách hàng lựa chọn tùy thuộc vào địa chỉ và thời gian nhận hàng.
+Chi phí vận chuyển sẽ được tính toán dựa trên khoảng cách và trọng lượng sản phẩm.
 
-1) Since Themefisher is offering non-tangible and irrevocable digital products, we do NOT issue refunds after a purchase is made. If there is a problem with one of the digital download products or if you experience any difficulty with the download, we will fix the problem.
-2) You have 24 hours to inspect your purchase and to determine if it does not meet with the expectations laid forth by The Themefisher. In the event that you wish to receive a refund, Themefisher will issue you a refund and ask you to specify how the product failed to live up to expectations.
-3) When you make a qualifying return, We’ll credit the full amount, less the handling charges. Refunds are generally processed within 3–5 business days after we receive your claim and find it eligible for a return. Refunds are applied to the original payment option.
+### Thời gian giao hàng
+Thời gian giao hàng phụ thuộc vào địa chỉ nhận hàng và phương thức vận chuyển được lựa chọn.
+Chúng tôi cam kết giao hàng đúng hẹn và nhanh chóng nhất có thể.
 
-### Support Policy
-1) Since Themefisher is offering non-tangible and irrevocable digital products, we do NOT issue refunds after a purchase is made. If there is a problem with one of the digital download products or if you experience any difficulty with the download, we will fix the problem.
-2) You have 24 hours to inspect your purchase and to determine if it does not meet with the expectations laid forth by The Themefisher. In the event that you wish to receive a refund, Themefisher will issue you a refund and ask you to specify how the product failed to live up to expectations.
-3) When you make a qualifying return, We’ll credit the full amount, less the handling charges. Refunds are generally processed within 3–5 business days after we receive your claim and find it eligible for a return. Refunds are applied to the original payment option.
 
-### Why We Support:
+## Điều kiện đổi trả hàng
 
-1. Support covers getting up and help in theme setup
-2. Help using features and theme options
-3. Bug fixes – if you discovered a bug in the theme/Template we will fix it
-4. Functionality which does not work as advertised
+Nếu khách hàng nhận được sản phẩm không đúng mẫu mã hoặc bị lỗi do chúng tôi gây ra, chúng tôi sẽ đổi trả hàng cho khách hàng hoàn toàn miễn phí. 
+
+Trong trường hợp khác, khách hàng có thể yêu cầu đổi trả sản phẩm nhưng phải chịu phí vận chuyển và các chi phí phát sinh khác. 
+
+## Chính sách bảo mật
+
+Chúng tôi cam kết bảo vệ thông tin khách hàng và không sử dụng thông tin đó cho mục đích khác ngoài mục đích giao dịch và chăm sóc khách hàng.
